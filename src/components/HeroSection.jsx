@@ -6,7 +6,7 @@ export const HeroSection = () => {
       id="hero"
       className="relative min-h-screen flex flex-col justify-center px-4 pt-28 md:pt-36"
     >
-      <div className="container mx-auto flex flex-col md:flex-row items-center justify-between max-w-6xl gap-10">
+      <div className="container mx-auto flex flex-col-reverse md:flex-row items-center justify-between max-w-6xl gap-10">
         
         {/* Image (Right on desktop) */}
         <div className="w-full md:w-1/2 flex justify-center">
