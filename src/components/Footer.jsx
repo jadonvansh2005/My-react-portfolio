@@ -6,7 +6,8 @@ export const Footer = () => {
       {" "}
       <p className="text-sm text-muted-foreground">
         {" "}
-        &copy; {new Date().getFullYear()} Pedrotech.co. All rights reserved.
+        &copy; {new Date().getFullYear()} © 2025 Vansh Pratap Singh Jadon. All rights reserved.
+
       </p>
       <a
         href="#hero"
