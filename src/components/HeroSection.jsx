@@ -6,10 +6,11 @@ export const HeroSection = () => {
       id="hero"
       className="relative flex flex-col justify-center px-4 pt-24 md:pt-32 lg:pt-36 pb-10"
     >
-      <div className="container mx-auto flex flex-col items-center justify-between max-w-6xl gap-10">
+      <div className="container mx-auto flex flex-col-reverse md:flex-row items-center justify-between max-w-6xl gap-10">
         
-        {/* Text Content Only */}
-        <div className="w-full space-y-6 text-center">
+
+        {/* Text Content (Left) */}
+        <div className="w-full md:w-1/2 space-y-6 text-center md:text-left">
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight leading-tight">
             <span className="block opacity-0 animate-fade-in">Hi, I'm</span>
             <span className="text-primary block opacity-0 animate-fade-in-delay-1">
@@ -20,7 +21,7 @@ export const HeroSection = () => {
             </span>
           </h1>
 
-          <p className="text-base sm:text-lg md:text-xl text-muted-foreground max-w-xl mx-auto opacity-0 animate-fade-in-delay-3">
+          <p className="text-base sm:text-lg md:text-xl text-muted-foreground max-w-xl mx-auto md:mx-0 opacity-0 animate-fade-in-delay-3">
             I create stellar web experiences with modern technologies.
             Specializing in front-end development, I build interfaces that are
             both beautiful and functional.
