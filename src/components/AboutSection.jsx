@@ -34,7 +34,7 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="https://drive.google.com/file/d/1AL2wTRmlPOJDbqc4OsfR8IJiQmJZu0q9/view?usp=drive_link"
+                href="https://drive.google.com/file/d/15WFbKVg3jS3eXjvH8-BRsMPYhjm_zXLd/view?usp=drive_link"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download Resume
