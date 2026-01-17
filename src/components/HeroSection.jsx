@@ -12,8 +12,7 @@ export const HeroSection = () => {
         <div className="space-y-6">
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
             <span className="block text-muted-foreground">Hi, I'm</span>
-            <span className="block text-primary">Vansh Pratap</span>
-            <span className="block text-gradient">Singh Jadon</span>
+            <span className="block text-primary">Vansh Pratap Singh Jadon</span>
           </h1>
 
           <p className="text-base sm:text-lg text-muted-foreground max-w-xl">
