@@ -46,7 +46,7 @@ const projects = [
     title: "Health Bro",
     description:
       "Health Bro is a full-stack AI-powered healthcare assistant designed to support doctors and patients with intelligent decision-making, risk prediction, and automated clinical workflows.",
-    image: ""C:\Users\vansh\OneDrive\Pictures\WhatsApp Image 2026-01-17 at 9.18.15 PM.jpeg"",
+    image: "/projects/health-bro.jpeg",
     tags: ["React.js","JavaScript (ES6+)","HTML5, JSX","Tailwind CSS","UI/UX Designing","FastAPI","Python","XGBoost","Scikit-learn","Natural Language Processing (NLP)","Whisper (Speech-to-Text)","Mongo-DB","Pydantic","Uvicorn"]
     demoUrl: "#",
     githubUrl: "https://github.com/jadonvansh2005/AI-Care-Navigator",
