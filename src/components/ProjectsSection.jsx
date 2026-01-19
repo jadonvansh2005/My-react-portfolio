@@ -51,6 +51,31 @@ const projects = [
     demoUrl: "#",
     githubUrl: "https://github.com/jadonvansh2005/AI-Care-Navigator",
   },
+  {
+    id: 6,
+    title: "AI Driven Mineral Trade Intelligence Platform",
+    description:
+      "AI Driven Mineral Trade Intelligence Platform is a data-driven analytics system designed to analyze, forecast, and assess risks in India's critical mineral trade. The platform integrates statistical analysis, time-series forecasting, and machine learning models to provide policy-grade insights on imports, exports, dependency ratios, risk indices, and state-level mineral value-chain dynamics.",
+    image: "/projects/Screenshot 2026-01-20 001849.png",
+    tags: [
+    "Python",
+    "Streamlit",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Scikit-learn",
+    "Statsmodels (ARIMA, SARIMA)",
+    "LSTM (Deep Learning)",
+    "TensorFlow / Keras",
+    "Time Series Forecasting",
+    "Statistical Analysis (ANOVA)",
+    "Data Engineering",
+    "Risk Modeling & Indexing",
+    "Policy Analytics",
+    "State-Level Mineral Mapping"
+  ],
+    githubUrl: "https://github.com/jadonvansh2005/AI-Driven-mineral-Trade-Intelligence-Platform",
+  },
 ];
 
 export const ProjectsSection = () => {
