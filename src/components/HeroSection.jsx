@@ -43,7 +43,7 @@ export const HeroSection = () => {
         <div className="flex justify-center md:justify-end">
           <div className="relative w-64 h-64 sm:w-72 sm:h-72 rounded-full overflow-hidden border-4 border-primary shadow-lg">
             <img
-              src="/projects/1728826727350.jpg"   // 👈 PUT YOUR IMAGE HERE
+              src="/projects/Screenshot 2026-01-20 000555.png"   // 👈 PUT YOUR IMAGE HERE
               alt="Vansh Pratap Singh Jadon"
               className="w-full h-full object-cover"
             />
