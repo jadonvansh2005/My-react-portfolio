@@ -4,17 +4,16 @@ export const HeroSection = () => {
   return (
     <section
       id="hero"
-      className="relative min-h-screen flex items-center px-4 pt-20 md:pt-32"
+      className="relative min-h-screen flex items-center px-4 pt-24 md:pt-32"
     >
-      <div className="container mx-auto max-w-6xl grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
-        
+      <div className="container mx-auto max-w-6xl grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+
         {/* LEFT SIDE – TEXT */}
-        <div className="space-y-5 text-center md:text-left">
-          
+        <div className="space-y-6">
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
             <span className="block text-muted-foreground">Hi, I'm</span>
 
-            <span className="block text-primary break-words text-left -ml-1 sm:ml-0">
+            <span className="text-primary break-words">
               Vansh Pratap Singh Jadon
             </span>
           </h1>
