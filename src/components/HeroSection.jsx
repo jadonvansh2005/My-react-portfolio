@@ -13,7 +13,7 @@ export const HeroSection = () => {
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
             <span className="block text-muted-foreground">Hi, I'm</span>
 
-            <span className="text-primary whitespace-nowrap -ml-2">
+            <span className="text-primary whitespace-nowrap -ml-4">
               Vansh Pratap Singh Jadon
             </span>
           </h1>
