@@ -11,15 +11,14 @@ export const HeroSection = () => {
         {/* LEFT SIDE – TEXT */}
         <div className="space-y-5 text-center md:text-left">
           
-          <h1 className="font-bold leading-tight">
-            <span className="block text-muted-foreground text-base sm:text-lg">
-              Hi, I'm
-            </span>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
+            <span className="block text-muted-foreground">Hi, I'm</span>
 
-            <span className="block text-primary text-3xl sm:text-4xl md:text-5xl lg:text-6xl break-words">
+            <span className="block text-primary break-words text-left -ml-1 sm:ml-0">
               Vansh Pratap Singh Jadon
             </span>
           </h1>
+
 
           <p className="text-base sm:text-lg text-muted-foreground max-w-xl">
             I’m a tech-driven developer passionate about building intelligent
